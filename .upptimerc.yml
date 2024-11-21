@@ -23,6 +23,14 @@ sites:
     url: https://declaration.syndicat-cotesdeprovence.com/
   - name: igp.vins.24eme.fr
     url: https://igp.vins.24eme.fr/
+  - name: 13.igp.vins.24eme.fr
+    url: https://13.igp.vins.24eme.fr/
+  - name: arles.igp.vins.24eme.fr
+    url: https://arles.igp.vins.24eme.fr/
+  - name: drome.igp.vins.24eme.fr
+    url: https://drome.igp.vins.24eme.fr/
+  - name: ardeche.igp.vins.24eme.fr
+    url: https://ardeche.igp.vins.24eme.fr/
   - name: cniv.24eme.fr
     url: https://cniv.24eme.fr/status/
   - name: brigitte.24eme.fr
