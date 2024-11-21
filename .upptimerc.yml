@@ -1,27 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: 24eme # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: 24eme.fr
+    url: https://24eme.fr
+  - name: declaration.vinsalsace.pro
+    url: https://declaration.vinsalsace.pro/
+  - name: declaration.declarvins.net
+    url: https://declaration.declarvins.net/
+  - name: declaration.ivbdpro.fr
+    url: https://declaration.ivbdpro.fr/
+  - name: declaration.ivsopro.com
+    url: https://declaration.ivsopro.com/
+  - name: declaration.vins-centre-loire.com
+    url: https://declaration.vins-centre-loire.com 
+  - name: declaration.ava-aoc.fr
+    url: https://declaration.ava-aoc.fr/
+  - name: declaration.syndicat-cotesdurhone.com
+    url: https://declaration.syndicat-cotesdurhone.com/
+  - name: declaration.syndicat-cotesdeprovence.com
+    url: https://declaration.syndicat-cotesdeprovence.com/
+  - name: igp.vins.24eme.fr
+    url: https://igp.vins.24eme.fr/
+  - name: cniv.24eme.fr
+    url: https://cniv.24eme.fr/status/
+  - name: brigitte.24eme.fr
+    url: https://brigitte.24eme.fr/
+  - name: jeancloude.24eme.fr
+    url: https://jeancloude.24eme.fr/
+  - name: pdf.24eme.fr
+    url: https://pdf.24eme.fr/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
