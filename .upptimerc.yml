@@ -61,6 +61,10 @@ sites:
     url: https://oivc.aoc-centre-loire.fr/
   - name: nantes.aoc-centre-loire.fr
     url: https://declaration.vinsdenantes.com/statuts/
+  - name: nutri.vin
+    url: https://nutri.vin/
+  - name: viticonnect.net
+    url: https://viticonnect.net/
   - name: cniv.24eme.fr
     url: https://cniv.24eme.fr/status/
   - name: brigitte.24eme.fr
