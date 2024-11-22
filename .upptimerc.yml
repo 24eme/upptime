@@ -16,9 +16,11 @@ sites:
   - name: login.ivbdpro.fr
     url: https://login.ivbdpro.fr/
   - name: declaration.ivsopro.com
-    url: https://declaration.ivsopro.com/
+    url: https://declaration.ivsopro.fr/statuts/ivso.php
   - name: login.ivsopro.com
     url: https://login.ivsopro.com/
+  - name: documentation.ivsopro.com
+    url: https://documentation.ivsopro.com/status.php
   - name: declaration.vins-centre-loire.com
     url: https://declaration.vins-centre-loire.com/statuts/
   - name: declaration.ava-aoc.fr
@@ -77,20 +79,30 @@ sites:
     url: https://oivc.aoc-centre-loire.fr/statuts/
   - name: declaration.vinsdenantes.com
     url: https://declaration.vinsdenantes.com/statuts/
+  - name: assvas.vins.24eme.fr
+    url: https://assvas.vins.24eme.fr/statuts/assvas.php
   - name: juricaf.org
     url: https://juricaf.org/
+  - name: aurouze.24eme.fr
+    url: https://aurouze.24eme.fr/statuts.php
+  - name: tuenet.24eme.fr
+    url: https://tuenet.24eme.fr/statuts.php
+  - name: ahrb.24eme.fr
+    url: https://ahrb.24eme.fr/statuts.php
+  - name: aurouzetouraine.24eme.fr
+    url: https://aurouzetouraine.24eme.fr/statuts.php
   - name: www.nathanmode-crm.com
-    url: https://www.nathanmode-crm.com/
+    url: https://www.nathanmode-crm.com/statuts.php
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
   - name: amvm.24eme.fr/amvm/
     url: https://amvm.24eme.fr/amvm/
   - name: amvm.24eme.fr/nextcloud
     url: https://amvm.24eme.fr/nextcloud/status.php
-  - name: www.association-mindfulness.org
-    url: https://www.association-mindfulness.org/
   - name: nutri.vin
     url: https://nutri.vin/
+  - name: qr-so.fr
+    url: https://qr-so.fr/faq
   - name: viticonnect.net
     url: https://viticonnect.net/
   - name: cniv.24eme.fr
