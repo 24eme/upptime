@@ -4,63 +4,89 @@ repo: upptime # The name of this repository
 
 sites:
   - name: declaration.vinsalsace.pro
-    url: https://declaration.vinsalsace.pro/
+    url: https://declaration.vinsalsace.pro/statuts/
+  - name: login.vinsalsace.pro
+    url: https://login.vinsalsace.pro/
   - name: declaration.declarvins.net
     url: https://declaration.declarvins.net/
+  - name: login.declarvins.net
+    url: https://login.declarvins.net/
   - name: declaration.ivbdpro.fr
     url: https://declaration.ivbdpro.fr/
+  - name: login.ivbdpro.fr
+    url: https://login.ivbdpro.fr/
   - name: declaration.ivsopro.com
     url: https://declaration.ivsopro.com/
+  - name: login.ivsopro.com
+    url: https://login.ivsopro.com/
   - name: declaration.vins-centre-loire.com
-    url: https://declaration.vins-centre-loire.com
+    url: https://declaration.vins-centre-loire.com/statuts/
   - name: declaration.ava-aoc.fr
-    url: https://declaration.ava-aoc.fr/
+    url: https://declaration.ava-aoc.fr/statuts/
   - name: declaration.syndicat-cotesdurhone.com
-    url: https://declaration.syndicat-cotesdurhone.com/
+    url: https://declaration.syndicat-cotesdurhone.com/statuts/
+  - name: login.syndicat-cotesdurhone.com
+    url: https://login.syndicat-cotesdurhone.com/
   - name: declaration.syndicat-cotesdeprovence.com
-    url: https://declaration.syndicat-cotesdeprovence.com/
+    url: https://declaration.syndicat-cotesdeprovence.com/statuts/
+  - name: login.syndicat-cotesdeprovence.com
+    url: https://login.syndicat-cotesdeprovence.com/
   - name: igp.vins.24eme.fr
     url: https://igp.vins.24eme.fr/
+  - name: login.igp.vins.24eme.fr
+    url: https://login.igp.vins.24eme.fr/
   - name: 13.igp.vins.24eme.fr
-    url: https://13.igp.vins.24eme.fr/
+    url: https://13.igp.vins.24eme.fr/statuts/
   - name: arles.igp.vins.24eme.fr
-    url: https://arles.igp.vins.24eme.fr/
+    url: https://arles.igp.vins.24eme.fr/statuts/
   - name: ardeche.igp.vins.24eme.fr
-    url: https://ardeche.igp.vins.24eme.fr/
+    url: https://ardeche.igp.vins.24eme.fr/statuts/
   - name: drome.igp.vins.24eme.fr
-    url: https://drome.igp.vins.24eme.fr/
+    url: https://drome.igp.vins.24eme.fr/statuts/
   - name: gascogne.igp.vins.24eme.fr
-    url: https://gascogne.igp.vins.24eme.fr/
+    url: https://gascogne.igp.vins.24eme.fr/statuts/
   - name: loire.igp.vins.24eme.fr
-    url: https://loire.igp.vins.24eme.fr/
+    url: https://loire.igp.vins.24eme.fr/statuts/
   - name: med.igp.vins.24eme.fr
-    url: https://med.igp.vins.24eme.fr/
+    url: https://med.igp.vins.24eme.fr/statuts/
   - name: var.igp.vins.24eme.fr
-    url: https://vaucluse.igp.vins.24eme.fr/
+    url: https://vaucluse.igp.vins.24eme.fr/statuts/
   - name: var.igp.vins.24eme.fr
-    url: https://vaucluse.igp.vins.24eme.fr/
+    url: https://vaucluse.igp.vins.24eme.fr/statuts/
   - name: declaration.aoc-ventoux.com
-    url: https://declaration.aoc-ventoux.com/
+    url: https://declaration.aoc-ventoux.com/statuts/
+  - name: www.aoc-centre-loire.fr
+    url: https://www.aoc-centre-loire.fr/
   - name: odg.aoc-centre-loire.fr
-    url: https://odg.aoc-centre-loire.fr/
+    url: https://odg.aoc-centre-loire.fr/statuts/
   - name: sancerre.aoc-centre-loire.fr
-    url: https://sancerre.aoc-centre-loire.fr/
+    url: https://sancerre.aoc-centre-loire.fr/statuts/
   - name: menetousalon.aoc-centre-loire.fr
-    url: https://menetousalon.aoc-centre-loire.fr/
+    url: https://menetousalon.aoc-centre-loire.fr/statuts/
   - name: pouilly.aoc-centre-loire.fr
-    url: https://pouilly.aoc-centre-loire.fr/
+    url: https://pouilly.aoc-centre-loire.fr/statuts/
   - name: quincy.aoc-centre-loire.fr
-    url: https://quincy.aoc-centre-loire.fr/
+    url: https://quincy.aoc-centre-loire.fr/statuts/
   - name: reuilly.aoc-centre-loire.fr
-    url: https://reuilly.aoc-centre-loire.fr/
+    url: https://reuilly.aoc-centre-loire.fr/statuts/
   - name: giennois.aoc-centre-loire.fr
-    url: https://giennois.aoc-centre-loire.fr/
+    url: https://giennois.aoc-centre-loire.fr/statuts/
   - name: chateaumeillant.aoc-centre-loire.fr
-    url: https://chateaumeillant.aoc-centre-loire.fr/
+    url: https://chateaumeillant.aoc-centre-loire.fr/statuts/
   - name: oivc.aoc-centre-loire.fr
-    url: https://oivc.aoc-centre-loire.fr/
-  - name: nantes.aoc-centre-loire.fr
+    url: https://oivc.aoc-centre-loire.fr/statuts/
+  - name: declaration.vinsdenantes.com
     url: https://declaration.vinsdenantes.com/statuts/
+  - name: juricaf.org
+    url: https://juricaf.org/
+  - name: www.nathanmode-crm.com
+    url: https://www.nathanmode-crm.com/
+  - name: plateforme.plateau-urbain.com
+    url: https://plateforme.plateau-urbain.com/
+  - name: amvm.24eme.fr/amvm/
+    url: https://amvm.24eme.fr/amvm/
+  - name: amvm.24eme.fr/nextcloud
+    url: https://amvm.24eme.fr/nextcloud/status.php
   - name: nutri.vin
     url: https://nutri.vin/
   - name: viticonnect.net
@@ -70,7 +96,7 @@ sites:
   - name: brigitte.24eme.fr
     url: https://brigitte.24eme.fr/
   - name: jeancloude.24eme.fr
-    url: https://jeancloude.24eme.fr/
+    url: https://jeancloude.24eme.fr/status.php
   - name: pdf.24eme.fr
     url: https://pdf.24eme.fr/
   - name: 24eme.fr
