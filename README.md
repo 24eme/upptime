@@ -1,5 +1,7 @@
 # [📈 Live Status](https://24eme.github.io/upptime): <!--live status--> **🟧 Partial outage**
 
+![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
+
 Monitorisation des sites, services et applications web administrées par le 24ème
 
 <!--start: status pages-->
