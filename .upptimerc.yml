@@ -3,8 +3,6 @@ owner: 24eme # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: 24eme.fr
-    url: https://24eme.fr
   - name: declaration.vinsalsace.pro
     url: https://declaration.vinsalsace.pro/
   - name: declaration.declarvins.net
@@ -14,7 +12,7 @@ sites:
   - name: declaration.ivsopro.com
     url: https://declaration.ivsopro.com/
   - name: declaration.vins-centre-loire.com
-    url: https://declaration.vins-centre-loire.com 
+    url: https://declaration.vins-centre-loire.com
   - name: declaration.ava-aoc.fr
     url: https://declaration.ava-aoc.fr/
   - name: declaration.syndicat-cotesdurhone.com
@@ -27,10 +25,42 @@ sites:
     url: https://13.igp.vins.24eme.fr/
   - name: arles.igp.vins.24eme.fr
     url: https://arles.igp.vins.24eme.fr/
-  - name: drome.igp.vins.24eme.fr
-    url: https://drome.igp.vins.24eme.fr/
   - name: ardeche.igp.vins.24eme.fr
     url: https://ardeche.igp.vins.24eme.fr/
+  - name: drome.igp.vins.24eme.fr
+    url: https://drome.igp.vins.24eme.fr/
+  - name: gascogne.igp.vins.24eme.fr
+    url: https://gascogne.igp.vins.24eme.fr/
+  - name: loire.igp.vins.24eme.fr
+    url: https://loire.igp.vins.24eme.fr/
+  - name: med.igp.vins.24eme.fr
+    url: https://med.igp.vins.24eme.fr/
+  - name: var.igp.vins.24eme.fr
+    url: https://vaucluse.igp.vins.24eme.fr/
+  - name: var.igp.vins.24eme.fr
+    url: https://vaucluse.igp.vins.24eme.fr/
+  - name: declaration.aoc-ventoux.com
+    url: https://declaration.aoc-ventoux.com/
+  - name: odg.aoc-centre-loire.fr
+    url: https://odg.aoc-centre-loire.fr/
+  - name: sancerre.aoc-centre-loire.fr
+    url: https://sancerre.aoc-centre-loire.fr/
+  - name: menetousalon.aoc-centre-loire.fr
+    url: https://menetousalon.aoc-centre-loire.fr/
+  - name: pouilly.aoc-centre-loire.fr
+    url: https://pouilly.aoc-centre-loire.fr/
+  - name: quincy.aoc-centre-loire.fr.aoc-centre-loire.fr
+    url: https://quincy.aoc-centre-loire.fr.aoc-centre-loire.fr/
+  - name: reuilly.aoc-centre-loire.fr
+    url: https://reuilly.aoc-centre-loire.fr/
+  - name: giennois.aoc-centre-loire.fr
+    url: https://giennois.aoc-centre-loire.fr/
+  - name: chateaumeillant.aoc-centre-loire.fr
+    url: https://chateaumeillant.aoc-centre-loire.fr/
+  - name: oivc.aoc-centre-loire.fr
+    url: https://oivc.aoc-centre-loire.fr/
+  - name: nantes.aoc-centre-loire.fr
+    url: https://declaration.vinsdenantes.com/statuts/
   - name: cniv.24eme.fr
     url: https://cniv.24eme.fr/status/
   - name: brigitte.24eme.fr
@@ -39,7 +69,9 @@ sites:
     url: https://jeancloude.24eme.fr/
   - name: pdf.24eme.fr
     url: https://pdf.24eme.fr/
-    
+  - name: 24eme.fr
+    url: https://24eme.fr
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
