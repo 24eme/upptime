@@ -1,4 +1,4 @@
-# [📈 Live Status](https://24eme.github.io/upptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.24eme.fr/): <!--live status--> **🟩 All systems operational**
 
 ![Uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fupptime%2Fupptime%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
 
