@@ -87,16 +87,16 @@ sites:
     url: https://assvas.vins.24eme.fr/statuts/assvas.php
   - name: juricaf.org
     url: https://juricaf.org/
-  - name: aurouze.24eme.fr
-    url: https://aurouze.24eme.fr/statuts.php
-  - name: tuenet.24eme.fr
-    url: https://tuenet.24eme.fr/statuts.php
-  - name: ahrb.24eme.fr
-    url: https://ahrb.24eme.fr/statuts.php
-  - name: aurouzetouraine.24eme.fr
-    url: https://aurouzetouraine.24eme.fr/statuts.php
-  - name: www.nathanmode-crm.com
-    url: https://www.nathanmode-crm.com/statuts.php
+  #- name: aurouze.24eme.fr
+  #  url: https://aurouze.24eme.fr/statuts.php
+  #- name: tuenet.24eme.fr
+  #  url: https://tuenet.24eme.fr/statuts.php
+  #- name: ahrb.24eme.fr
+  #  url: https://ahrb.24eme.fr/statuts.php
+  #- name: aurouzetouraine.24eme.fr
+  #  url: https://aurouzetouraine.24eme.fr/statuts.php
+  #- name: www.nathanmode-crm.com
+  #  url: https://www.nathanmode-crm.com/statuts.php
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
   - name: amvm.24eme.fr/amvm/
@@ -111,6 +111,8 @@ sites:
     url: https://viticonnect.net/
   - name: cniv.24eme.fr
     url: https://cniv.24eme.fr/status/
+  - name: sergio.24eme.fr
+    url: https://sergio.24eme.fr/
   - name: brigitte.24eme.fr
     url: https://brigitte.24eme.fr/
   - name: jeancloude.24eme.fr
