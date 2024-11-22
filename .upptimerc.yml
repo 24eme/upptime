@@ -89,12 +89,12 @@ sites:
     url: https://juricaf.org/
   - name: aurouze.24eme.fr
     url: https://aurouze.24eme.fr/configuration/public/status
-  #- name: tuenet.24eme.fr
-  #  url: https://tuenet.24eme.fr/statuts.php
-  #- name: ahrb.24eme.fr
-  #  url: https://ahrb.24eme.fr/statuts.php
-  #- name: aurouzetouraine.24eme.fr
-  #  url: https://aurouzetouraine.24eme.fr/statuts.php
+  - name: tuenet.24eme.fr
+    url: https://tuenet.24eme.fr/configuration/public/status
+  - name: ahrb.24eme.fr
+    url: https://ahrb.24eme.fr/configuration/public/status
+  - name: aurouzetouraine.24eme.fr
+    url: https://aurouzetouraine.24eme.fr/configuration/public/status
   #- name: www.nathanmode-crm.com
   #  url: https://www.nathanmode-crm.com/statuts.php
   - name: plateforme.plateau-urbain.com
