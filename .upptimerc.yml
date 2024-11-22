@@ -99,7 +99,7 @@ sites:
   #  url: https://www.nathanmode-crm.com/statuts.php
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
-  - name: amvm.24eme.fr/amvm/
+  - name: amvm.24eme.fr/amvm
     url: https://amvm.24eme.fr/amvm/
   - name: amvm.24eme.fr/nextcloud
     url: https://amvm.24eme.fr/nextcloud/status.php
