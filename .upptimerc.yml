@@ -16,7 +16,7 @@ sites:
   - name: login.ivbdpro.fr
     url: https://login.ivbdpro.fr/
   - name: declaration.ivsopro.com
-    url: https://declaration.ivsopro.fr/statuts/ivso.php
+    url: https://declaration.ivsopro.com/statuts/ivso.php
   - name: login.ivsopro.com
     url: https://login.ivsopro.com/
   - name: documentation.ivsopro.com
