@@ -49,8 +49,8 @@ sites:
     url: https://menetousalon.aoc-centre-loire.fr/
   - name: pouilly.aoc-centre-loire.fr
     url: https://pouilly.aoc-centre-loire.fr/
-  - name: quincy.aoc-centre-loire.fr.aoc-centre-loire.fr
-    url: https://quincy.aoc-centre-loire.fr.aoc-centre-loire.fr/
+  - name: quincy.aoc-centre-loire.fr
+    url: https://quincy.aoc-centre-loire.fr/
   - name: reuilly.aoc-centre-loire.fr
     url: https://reuilly.aoc-centre-loire.fr/
   - name: giennois.aoc-centre-loire.fr
