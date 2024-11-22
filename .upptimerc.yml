@@ -100,7 +100,7 @@ sites:
   - name: amvm.24eme.fr/nextcloud
     url: https://amvm.24eme.fr/nextcloud/status.php
   - name: nutri.vin
-    url: https://nutri.vin/
+    url: https://nutri.vin/faq
   - name: qr-so.fr
     url: https://qr-so.fr/faq
   - name: viticonnect.net
