@@ -128,7 +128,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.24eme.fr/img/24eme.svg
   name: 24ème Status
-  introTitle: "https://www.24eme.fr/img/24eme.svg"
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
