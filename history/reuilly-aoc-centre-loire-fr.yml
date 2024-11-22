@@ -1,7 +1,7 @@
-url: https://reuilly.aoc-centre-loire.fr/
-status: up
-code: 200
-responseTime: 892
-lastUpdated: 2024-11-22T08:12:21.333Z
+url: https://reuilly.aoc-centre-loire.fr/statuts/
+status: down
+code: 403
+responseTime: 722
+lastUpdated: 2024-11-22T10:32:28.882Z
 startTime: 2024-11-22T08:12:20.439Z
 generator: Upptime <https://github.com/upptime/upptime>
