@@ -87,8 +87,8 @@ sites:
     url: https://assvas.vins.24eme.fr/statuts/assvas.php
   - name: juricaf.org
     url: https://juricaf.org/
-  #- name: aurouze.24eme.fr
-  #  url: https://aurouze.24eme.fr/statuts.php
+  - name: aurouze.24eme.fr
+    url: https://aurouze.24eme.fr/configuration/public/status
   #- name: tuenet.24eme.fr
   #  url: https://tuenet.24eme.fr/statuts.php
   #- name: ahrb.24eme.fr
