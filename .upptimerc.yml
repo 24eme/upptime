@@ -95,8 +95,8 @@ sites:
     url: https://ahrb.24eme.fr/configuration/public/status
   - name: aurouzetouraine.24eme.fr
     url: https://aurouzetouraine.24eme.fr/configuration/public/status
-  #- name: www.nathanmode-crm.com
-  #  url: https://www.nathanmode-crm.com/statuts.php
+  - name: www.nathanmode-crm.com
+    url: https://www.nathanmode-crm.com/status
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
   - name: amvm.24eme.fr/amvm
