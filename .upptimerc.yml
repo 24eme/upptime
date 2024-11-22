@@ -12,7 +12,7 @@ sites:
   - name: login.declarvins.net
     url: https://login.declarvins.net/
   - name: declaration.ivbdpro.fr
-    url: https://declaration.ivbdpro.fr/
+    url: https://declaration.ivbdpro.fr/statuts/ivbd.php
   - name: login.ivbdpro.fr
     url: https://login.ivbdpro.fr/
   - name: declaration.ivsopro.com
@@ -87,6 +87,8 @@ sites:
     url: https://amvm.24eme.fr/amvm/
   - name: amvm.24eme.fr/nextcloud
     url: https://amvm.24eme.fr/nextcloud/status.php
+  - name: www.association-mindfulness.org
+    url: https://www.association-mindfulness.org/
   - name: nutri.vin
     url: https://nutri.vin/
   - name: viticonnect.net
