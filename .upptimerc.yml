@@ -57,6 +57,8 @@ sites:
     url: https://vaucluse.igp.vins.24eme.fr/statuts/
   - name: declaration.aoc-ventoux.com
     url: https://declaration.aoc-ventoux.com/statuts/
+  - name: login.aoc-ventoux.com
+    url: https://login.aoc-ventoux.com/
   - name: www.aoc-centre-loire.fr
     url: https://www.aoc-centre-loire.fr/
   - name: odg.aoc-centre-loire.fr
@@ -77,6 +79,8 @@ sites:
     url: https://chateaumeillant.aoc-centre-loire.fr/statuts/
   - name: oivc.aoc-centre-loire.fr
     url: https://oivc.aoc-centre-loire.fr/statuts/
+  - name: login.aoc-centre-loire.fr
+    url: https://login.aoc-centre-loire.fr/
   - name: declaration.vinsdenantes.com
     url: https://declaration.vinsdenantes.com/statuts/
   - name: assvas.vins.24eme.fr
