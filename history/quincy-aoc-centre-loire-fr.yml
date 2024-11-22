@@ -1,7 +1,7 @@
 url: https://quincy.aoc-centre-loire.fr/statuts/
-status: down
-code: 403
-responseTime: 808
-lastUpdated: 2024-11-22T10:32:25.566Z
+status: up
+code: 200
+responseTime: 743
+lastUpdated: 2024-11-22T11:28:05.636Z
 startTime: 2024-11-22T08:19:16.577Z
 generator: Upptime <https://github.com/upptime/upptime>
