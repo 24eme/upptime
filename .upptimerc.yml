@@ -52,8 +52,8 @@ sites:
   - name: med.igp.vins.24eme.fr
     url: https://med.igp.vins.24eme.fr/statuts/
   - name: var.igp.vins.24eme.fr
-    url: https://vaucluse.igp.vins.24eme.fr/statuts/
-  - name: var.igp.vins.24eme.fr
+    url: https://var.igp.vins.24eme.fr/statuts/
+  - name: vaucluse.igp.vins.24eme.fr
     url: https://vaucluse.igp.vins.24eme.fr/statuts/
   - name: declaration.aoc-ventoux.com
     url: https://declaration.aoc-ventoux.com/statuts/ventoux.php
