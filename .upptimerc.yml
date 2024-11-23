@@ -23,6 +23,8 @@ sites:
     url: https://documentation.ivsopro.com/status.php
   - name: declaration.vins-centre-loire.com
     url: https://declaration.vins-centre-loire.com/statuts/bivc.php
+  - name: login.vins-centre-loire.com
+    url: https://login.vins-centre-loire.com/
   - name: declaration.ava-aoc.fr
     url: https://declaration.ava-aoc.fr/statuts/ava.php
   - name: declaration.syndicat-cotesdurhone.com
