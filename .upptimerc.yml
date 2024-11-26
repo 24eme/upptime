@@ -150,6 +150,8 @@ sites:
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
     maxResponseTime: 3000
+    assignees:
+      - OliCat
   - name: amvm.24eme.fr/amvm
     url: https://amvm.24eme.fr/amvm/
     maxResponseTime: 3000
