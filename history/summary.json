@@ -764,9 +764,9 @@
     "url": "https://juricaf.org/",
     "icon": "https://icons.duckduckgo.com/ip3/juricaf.org.ico",
     "slug": "juricaf-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -775,7 +775,9 @@
     "timeWeek": 836,
     "timeMonth": 921,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "aurouze.24eme.fr",
@@ -873,11 +875,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plateforme.plateau-urbain.com.ico",
     "slug": "plateforme-plateau-urbain-com",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "99.78%",
     "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 921,
     "timeDay": 806,
     "timeWeek": 843,
