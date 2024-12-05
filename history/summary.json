@@ -1011,19 +1011,19 @@
     "url": "http://www.opendatawine.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.opendatawine.fr.ico",
     "slug": "www-opendatawine-fr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 268,
-    "timeDay": 152,
-    "timeWeek": 244,
-    "timeMonth": 268,
-    "timeYear": 268,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 262,
+    "timeDay": 150,
+    "timeWeek": 232,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2024-12-05": 1
+      "2024-12-05": 3
     }
   },
   {
@@ -1031,19 +1031,19 @@
     "url": "https://io.24eme.fr/liberatinao/",
     "icon": "https://icons.duckduckgo.com/ip3/io.24eme.fr.ico",
     "slug": "io-24eme-fr-liberatinao",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 570,
-    "timeWeek": 709,
-    "timeMonth": 722,
-    "timeYear": 722,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 711,
+    "timeDay": 529,
+    "timeWeek": 682,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2024-12-05": 1
+      "2024-12-05": 3
     }
   },
   {
