@@ -1,7 +1,7 @@
 url: https://arles.igp.vins.24eme.fr/statuts/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-05T07:59:51.469Z
+status: up
+code: 200
+responseTime: 597
+lastUpdated: 2024-12-05T08:03:33.221Z
 startTime: 2024-11-21T17:11:27.052Z
 generator: Upptime <https://github.com/upptime/upptime>
