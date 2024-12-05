@@ -302,19 +302,19 @@
     "url": "https://igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/igp.vins.24eme.fr.ico",
     "slug": "igp-vins-24eme-fr",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 717,
     "timeDay": 562,
     "timeWeek": 665,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2024-12-05": 3
+      "2024-12-05": 31
     }
   },
   {
@@ -396,28 +396,30 @@
     "url": "https://drome.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/drome.igp.vins.24eme.fr.ico",
     "slug": "drome-igp-vins-24eme-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 759,
     "timeDay": 684,
     "timeWeek": 658,
     "timeMonth": 759,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 1
+    }
   },
   {
     "name": "gascogne.igp.vins.24eme.fr",
     "url": "https://gascogne.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/gascogne.igp.vins.24eme.fr.ico",
     "slug": "gascogne-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
@@ -425,7 +427,9 @@
     "timeWeek": 565,
     "timeMonth": 682,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 1
+    }
   },
   {
     "name": "loire.igp.vins.24eme.fr",
@@ -885,11 +889,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plateforme.plateau-urbain.com.ico",
     "slug": "plateforme-plateau-urbain-com",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 914,
     "timeDay": 684,
     "timeWeek": 838,
