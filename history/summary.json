@@ -302,17 +302,17 @@
     "url": "https://igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/igp.vins.24eme.fr.ico",
     "slug": "igp-vins-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.58%",
+    "uptimeDay": "97.53%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 720,
-    "timeDay": 705,
-    "timeWeek": 688,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "time": 721,
+    "timeDay": 716,
+    "timeWeek": 694,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2024-12-05": 35
     }
@@ -322,19 +322,19 @@
     "url": "https://login.igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/login.igp.vins.24eme.fr.ico",
     "slug": "login-igp-vins-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1076,
-    "timeDay": 746,
-    "timeWeek": 968,
-    "timeMonth": 1076,
-    "timeYear": 1076,
+    "time": 1079,
+    "timeDay": 977,
+    "timeWeek": 998,
+    "timeMonth": 1079,
+    "timeYear": 1079,
     "dailyMinutesDown": {
-      "2024-12-05": 1
+      "2024-12-05": 2
     }
   },
   {
