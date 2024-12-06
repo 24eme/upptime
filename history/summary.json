@@ -510,19 +510,19 @@
     "url": "https://declaration.aoc-ventoux.com/statuts/ventoux.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.aoc-ventoux.com.ico",
     "slug": "declaration-aoc-ventoux-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 873,
-    "timeDay": 624,
-    "timeWeek": 681,
-    "timeMonth": 873,
-    "timeYear": 873,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 865,
+    "timeDay": 614,
+    "timeWeek": 671,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-12-06": 2
+      "2024-12-06": 5
     }
   },
   {
