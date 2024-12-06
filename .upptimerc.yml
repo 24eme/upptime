@@ -5,192 +5,192 @@ skipDeleteIssues: true
 sites:
   - name: declaration.vinsalsace.pro
     url: https://declaration.vinsalsace.pro/statuts/civa.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.vinsalsace.pro
     url: https://login.vinsalsace.pro/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.declarvins.net
     url: https://declaration.declarvins.net/contact
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.declarvins.net
     url: https://login.declarvins.net/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.ivbdpro.fr
     url: https://declaration.ivbdpro.fr/statuts/ivbd.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.ivbdpro.fr
     url: https://login.ivbdpro.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.ivsopro.com
     url: https://declaration.ivsopro.com/statuts/ivso.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.ivsopro.com
     url: https://login.ivsopro.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: documentation.ivsopro.com
     url: https://documentation.ivsopro.com/status.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.vins-centre-loire.com
     url: https://declaration.vins-centre-loire.com/statuts/bivc.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.vins-centre-loire.com
     url: https://login.vins-centre-loire.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.ava-aoc.fr
     url: https://declaration.ava-aoc.fr/statuts/ava.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.syndicat-cotesdurhone.com
     url: https://declaration.syndicat-cotesdurhone.com/statuts/rhone.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.syndicat-cotesdurhone.com
     url: https://login.syndicat-cotesdurhone.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.syndicat-cotesdeprovence.com
     url: https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.syndicat-cotesdeprovence.com
     url: https://login.syndicat-cotesdeprovence.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: igp.vins.24eme.fr
     url: https://igp.vins.24eme.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.igp.vins.24eme.fr
     url: https://login.igp.vins.24eme.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: 13.igp.vins.24eme.fr
     url: https://13.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: arles.igp.vins.24eme.fr
     url: https://arles.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: ardeche.igp.vins.24eme.fr
     url: https://ardeche.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: drome.igp.vins.24eme.fr
     url: https://drome.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: gascogne.igp.vins.24eme.fr
     url: https://gascogne.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: loire.igp.vins.24eme.fr
     url: https://loire.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: med.igp.vins.24eme.fr
     url: https://med.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: var.igp.vins.24eme.fr
     url: https://var.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: vaucluse.igp.vins.24eme.fr
     url: https://vaucluse.igp.vins.24eme.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.aoc-ventoux.com
     url: https://declaration.aoc-ventoux.com/statuts/ventoux.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.aoc-ventoux.com
     url: https://login.aoc-ventoux.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: www.aoc-centre-loire.fr
     url: https://www.aoc-centre-loire.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: odg.aoc-centre-loire.fr
     url: https://odg.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: sancerre.aoc-centre-loire.fr
     url: https://sancerre.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: menetousalon.aoc-centre-loire.fr
     url: https://menetousalon.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: pouilly.aoc-centre-loire.fr
     url: https://pouilly.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: quincy.aoc-centre-loire.fr
     url: https://quincy.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: reuilly.aoc-centre-loire.fr
     url: https://reuilly.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: giennois.aoc-centre-loire.fr
     url: https://giennois.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: chateaumeillant.aoc-centre-loire.fr
     url: https://chateaumeillant.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: oivc.aoc-centre-loire.fr
     url: https://oivc.aoc-centre-loire.fr/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: login.aoc-centre-loire.fr
     url: https://login.aoc-centre-loire.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: declaration.vinsdenantes.com
     url: https://declaration.vinsdenantes.com/statuts/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: assvas.vins.24eme.fr
     url: https://assvas.vins.24eme.fr/statuts/assvas.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: juricaf.org
     url: https://juricaf.org/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: aurouze.24eme.fr
     url: https://aurouze.24eme.fr/configuration/public/status
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: tuenet.24eme.fr
     url: https://tuenet.24eme.fr/configuration/public/status
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: ahrb.24eme.fr
     url: https://ahrb.24eme.fr/configuration/public/status
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: aurouzetouraine.24eme.fr
     url: https://aurouzetouraine.24eme.fr/configuration/public/status
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: www.nathanmode-crm.com
     url: https://www.nathanmode-crm.com/status
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
     assignees:
       - OliCat
   - name: amvm.24eme.fr/amvm
     url: https://amvm.24eme.fr/amvm/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: amvm.24eme.fr/nextcloud
     url: https://amvm.24eme.fr/nextcloud/status.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: nutri.vin
     url: https://nutri.vin/faq
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: qr-so.fr
     url: https://qr-so.fr/faq
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: viticonnect.net
     url: https://viticonnect.net/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: cniv.24eme.fr
     url: https://cniv.24eme.fr/status/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: www.opendatawine.fr
     url: http://www.opendatawine.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: io.24eme.fr/liberatinao/
     url: https://io.24eme.fr/liberatinao/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: sergio.24eme.fr
     url: https://sergio.24eme.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: brigitte.24eme.fr
     url: https://brigitte.24eme.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: jeancloude.24eme.fr
     url: https://jeancloude.24eme.fr/status.php
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: pdf.24eme.fr
     url: https://pdf.24eme.fr/
-    maxResponseTime: 3000
+    maxResponseTime: 5000
   - name: 24eme.fr
     url: https://24eme.fr
-    maxResponseTime: 3000
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
