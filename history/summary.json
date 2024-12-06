@@ -880,19 +880,19 @@
     "url": "https://www.nathanmode-crm.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/www.nathanmode-crm.com.ico",
     "slug": "www-nathanmode-crm-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 795,
-    "timeDay": 704,
-    "timeWeek": 697,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 791,
+    "timeDay": 695,
+    "timeWeek": 696,
+    "timeMonth": 791,
+    "timeYear": 791,
     "dailyMinutesDown": {
-      "2024-12-06": 1
+      "2024-12-06": 3
     }
   },
   {
@@ -921,19 +921,19 @@
     "url": "https://amvm.24eme.fr/amvm/",
     "icon": "https://icons.duckduckgo.com/ip3/amvm.24eme.fr.ico",
     "slug": "amvm-24eme-fr-amvm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 1013,
-    "timeWeek": 1134,
-    "timeMonth": 1288,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1285,
+    "timeDay": 1104,
+    "timeWeek": 1142,
+    "timeMonth": 1285,
+    "timeYear": 1285,
     "dailyMinutesDown": {
-      "2024-12-06": 1
+      "2024-12-06": 2
     }
   },
   {
