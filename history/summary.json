@@ -168,12 +168,12 @@
     "slug": "declaration-vins-centre-loire-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 878,
-    "timeDay": 749,
+    "timeDay": 787,
     "timeWeek": 699,
     "timeMonth": 878,
     "timeYear": 878,
@@ -188,12 +188,12 @@
     "slug": "login-vins-centre-loire-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 1053,
-    "timeDay": 917,
+    "timeDay": 1118,
     "timeWeek": 978,
     "timeMonth": 1053,
     "timeYear": 1053,
@@ -261,42 +261,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1234,
     "timeDay": 1097,
     "timeWeek": 1038,
     "timeMonth": 1234,
     "timeYear": 1234,
-    "dailyMinutesDown": {
-      "2024-12-06": 10,
-      "2024-12-05": 16,
-      "2024-12-02": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "login.syndicat-cotesdeprovence.com",
     "url": "https://login.syndicat-cotesdeprovence.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.syndicat-cotesdeprovence.com.ico",
     "slug": "login-syndicat-cotesdeprovence-com",
-    "status": "up",
-    "uptime": "96.86%",
-    "uptimeDay": "56.18%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "96.86%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1395,
     "timeDay": 1526,
     "timeWeek": 1379,
     "timeMonth": 1395,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-12-06": 631,
-      "2024-12-05": 5,
-      "2024-12-02": 2
+      "2024-12-06": 1
     }
   },
   {
@@ -305,19 +299,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/igp.vins.24eme.fr.ico",
     "slug": "igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 716,
     "timeDay": 706,
     "timeWeek": 661,
     "timeMonth": 716,
     "timeYear": 716,
-    "dailyMinutesDown": {
-      "2024-12-05": 35
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "login.igp.vins.24eme.fr",
@@ -325,19 +317,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.igp.vins.24eme.fr.ico",
     "slug": "login-igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1080,
     "timeDay": 1123,
     "timeWeek": 977,
     "timeMonth": 1080,
     "timeYear": 1080,
-    "dailyMinutesDown": {
-      "2024-12-05": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "13.igp.vins.24eme.fr",
@@ -363,19 +353,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arles.igp.vins.24eme.fr.ico",
     "slug": "arles-igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 785,
     "timeDay": 575,
     "timeWeek": 652,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {
-      "2024-12-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ardeche.igp.vins.24eme.fr",
@@ -401,19 +389,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drome.igp.vins.24eme.fr.ico",
     "slug": "drome-igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 733,
     "timeDay": 423,
     "timeWeek": 558,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {
-      "2024-12-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gascogne.igp.vins.24eme.fr",
@@ -421,19 +407,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gascogne.igp.vins.24eme.fr.ico",
     "slug": "gascogne-igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 670,
     "timeDay": 545,
     "timeWeek": 527,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {
-      "2024-12-05": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "loire.igp.vins.24eme.fr",
@@ -513,19 +497,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/declaration.aoc-ventoux.com.ico",
     "slug": "declaration-aoc-ventoux-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 868,
     "timeDay": 738,
     "timeWeek": 706,
     "timeMonth": 868,
     "timeYear": 868,
-    "dailyMinutesDown": {
-      "2024-12-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "login.aoc-ventoux.com",
@@ -641,19 +623,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/quincy.aoc-centre-loire.fr.ico",
     "slug": "quincy-aoc-centre-loire-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 497,
     "timeWeek": 493,
     "timeMonth": 571,
     "timeYear": 571,
-    "dailyMinutesDown": {
-      "2024-12-06": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "reuilly.aoc-centre-loire.fr",
@@ -661,19 +641,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/reuilly.aoc-centre-loire.fr.ico",
     "slug": "reuilly-aoc-centre-loire-fr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 512,
     "timeWeek": 506,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {
-      "2024-12-06": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "giennois.aoc-centre-loire.fr",
@@ -881,19 +859,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nathanmode-crm.com.ico",
     "slug": "www-nathanmode-crm-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 797,
     "timeDay": 787,
     "timeWeek": 726,
     "timeMonth": 797,
     "timeYear": 797,
-    "dailyMinutesDown": {
-      "2024-12-06": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "plateforme.plateau-urbain.com",
@@ -901,11 +877,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plateforme.plateau-urbain.com.ico",
     "slug": "plateforme-plateau-urbain-com",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 915,
     "timeDay": 929,
     "timeWeek": 825,
@@ -922,19 +898,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/amvm.24eme.fr.ico",
     "slug": "amvm-24eme-fr-amvm",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1293,
     "timeDay": 1253,
     "timeWeek": 1187,
     "timeMonth": 1293,
     "timeYear": 1293,
-    "dailyMinutesDown": {
-      "2024-12-06": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "amvm.24eme.fr/nextcloud",
@@ -1032,19 +1006,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.opendatawine.fr.ico",
     "slug": "www-opendatawine-fr",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 312,
     "timeWeek": 257,
     "timeMonth": 273,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2024-12-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "io.24eme.fr/liberatinao/",
@@ -1052,19 +1024,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/io.24eme.fr.ico",
     "slug": "io-24eme-fr-liberatinao",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 661,
     "timeWeek": 651,
     "timeMonth": 714,
     "timeYear": 714,
-    "dailyMinutesDown": {
-      "2024-12-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "sergio.24eme.fr",
@@ -1090,11 +1060,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/brigitte.24eme.fr.ico",
     "slug": "brigitte-24eme-fr",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "99.49%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 843,
     "timeDay": 478,
     "timeWeek": 419,
