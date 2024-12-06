@@ -1,7 +1,7 @@
 url: https://login.syndicat-cotesdeprovence.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-06T00:58:20.578Z
+status: up
+code: 200
+responseTime: 1368
+lastUpdated: 2024-12-06T01:00:36.527Z
 startTime: 2024-11-22T10:31:54.608Z
 generator: Upptime <https://github.com/upptime/upptime>
