@@ -282,10 +282,10 @@
     "url": "https://login.syndicat-cotesdeprovence.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.syndicat-cotesdeprovence.com.ico",
     "slug": "login-syndicat-cotesdeprovence-com",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "56.36%",
-    "uptimeWeek": "93.70%",
+    "uptimeDay": "56.30%",
+    "uptimeWeek": "93.69%",
     "uptimeMonth": "96.87%",
     "uptimeYear": "96.87%",
     "time": 1366,
@@ -294,7 +294,7 @@
     "timeMonth": 1366,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2024-12-06": 628,
+      "2024-12-06": 629,
       "2024-12-05": 5,
       "2024-12-02": 2
     }
