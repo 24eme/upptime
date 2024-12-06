@@ -1,7 +1,7 @@
 url: https://declaration.aoc-ventoux.com/statuts/ventoux.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-06T00:31:49.758Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2024-12-06T00:36:30.994Z
 startTime: 2024-11-22T08:12:09.223Z
 generator: Upptime <https://github.com/upptime/upptime>
