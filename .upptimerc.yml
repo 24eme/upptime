@@ -1,6 +1,7 @@
 # Change these first
 owner: 24eme # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: 24eme
 skipDeleteIssues: true
 sites:
   - name: declaration.vinsalsace.pro
