@@ -1076,7 +1076,7 @@
     "url": "https://brigitte.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/brigitte.24eme.fr.ico",
     "slug": "brigitte-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "99.47%",
     "uptimeWeek": "99.44%",
@@ -1088,6 +1088,7 @@
     "timeMonth": 769,
     "timeYear": 769,
     "dailyMinutesDown": {
+      "2024-12-10": 0,
       "2024-12-09": 8,
       "2024-12-08": 14,
       "2024-12-07": 11,
