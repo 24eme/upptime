@@ -182,9 +182,6 @@ sites:
   - name: sergio.24eme.fr
     url: https://sergio.24eme.fr/
     maxResponseTime: 15000
-  - name: brigitte.24eme.fr
-    url: https://brigitte.24eme.fr/
-    maxResponseTime: 15000
   - name: jeancloude.24eme.fr
     url: https://jeancloude.24eme.fr/status.php
     maxResponseTime: 15000
