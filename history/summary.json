@@ -279,18 +279,20 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1188,
     "timeDay": 955,
     "timeWeek": 1053,
     "timeMonth": 1188,
     "timeYear": 1188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 3
+    }
   },
   {
     "name": "login.syndicat-cotesdeprovence.com",
@@ -333,10 +335,10 @@
     "url": "https://login.igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/login.igp.vins.24eme.fr.ico",
     "slug": "login-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1045,
@@ -344,17 +346,19 @@
     "timeWeek": 984,
     "timeMonth": 1045,
     "timeYear": 1045,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 2
+    }
   },
   {
     "name": "13.igp.vins.24eme.fr",
     "url": "https://13.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/13.igp.vins.24eme.fr.ico",
     "slug": "13-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
@@ -362,7 +366,9 @@
     "timeWeek": 701,
     "timeMonth": 834,
     "timeYear": 834,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-16": 1
+    }
   },
   {
     "name": "arles.igp.vins.24eme.fr",
@@ -894,11 +900,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plateforme.plateau-urbain.com.ico",
     "slug": "plateforme-plateau-urbain-com",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 883,
     "timeDay": 672,
     "timeWeek": 800,
