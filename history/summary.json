@@ -207,19 +207,19 @@
     "url": "https://autodiagnostic.vins-centre-loire.com/",
     "icon": "https://icons.duckduckgo.com/ip3/autodiagnostic.vins-centre-loire.com.ico",
     "slug": "autodiagnostic-vins-centre-loire-com",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1189,
     "timeDay": 1171,
     "timeWeek": 1255,
     "timeMonth": 1189,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2024-12-23": 8
+      "2024-12-23": 10
     }
   },
   {
@@ -281,10 +281,10 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1182,
@@ -293,7 +293,7 @@
     "timeMonth": 1069,
     "timeYear": 1182,
     "dailyMinutesDown": {
-      "2024-12-23": 7,
+      "2024-12-23": 8,
       "2024-12-16": 5
     }
   },
