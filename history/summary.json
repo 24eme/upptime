@@ -13,7 +13,7 @@
     "time": 713,
     "timeDay": 570,
     "timeWeek": 619,
-    "timeMonth": 634,
+    "timeMonth": 631,
     "timeYear": 713,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 856,
     "timeDay": 773,
     "timeWeek": 852,
-    "timeMonth": 824,
+    "timeMonth": 818,
     "timeYear": 856,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 855,
     "timeDay": 445,
     "timeWeek": 624,
-    "timeMonth": 619,
+    "timeMonth": 616,
     "timeYear": 855,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 728,
     "timeDay": 680,
     "timeWeek": 845,
-    "timeMonth": 827,
+    "timeMonth": 819,
     "timeYear": 728,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1172,
     "timeDay": 837,
     "timeWeek": 1027,
-    "timeMonth": 1032,
+    "timeMonth": 1023,
     "timeYear": 1172,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1081,
     "timeDay": 826,
     "timeWeek": 999,
-    "timeMonth": 1054,
+    "timeMonth": 1044,
     "timeYear": 1081,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 1349,
     "timeDay": 916,
     "timeWeek": 1073,
-    "timeMonth": 1145,
+    "timeMonth": 1141,
     "timeYear": 1349,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 1058,
     "timeDay": 917,
     "timeWeek": 1027,
-    "timeMonth": 1059,
+    "timeMonth": 1053,
     "timeYear": 1058,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 596,
     "timeDay": 526,
     "timeWeek": 587,
-    "timeMonth": 575,
+    "timeMonth": 570,
     "timeYear": 596,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 825,
     "timeDay": 701,
     "timeWeek": 769,
-    "timeMonth": 742,
+    "timeMonth": 734,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2024-12-05": 21
@@ -207,18 +207,20 @@
     "url": "https://autodiagnostic.vins-centre-loire.com/",
     "icon": "https://icons.duckduckgo.com/ip3/autodiagnostic.vins-centre-loire.com.ico",
     "slug": "autodiagnostic-vins-centre-loire-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1196,
     "timeDay": 1250,
     "timeWeek": 1290,
     "timeMonth": 1196,
     "timeYear": 1196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 3
+    }
   },
   {
     "name": "declaration.ava-aoc.fr",
@@ -234,7 +236,7 @@
     "time": 1778,
     "timeDay": 1532,
     "timeWeek": 1831,
-    "timeMonth": 1794,
+    "timeMonth": 1788,
     "timeYear": 1778,
     "dailyMinutesDown": {}
   },
@@ -252,7 +254,7 @@
     "time": 624,
     "timeDay": 508,
     "timeWeek": 546,
-    "timeMonth": 559,
+    "timeMonth": 555,
     "timeYear": 624,
     "dailyMinutesDown": {}
   },
@@ -270,7 +272,7 @@
     "time": 876,
     "timeDay": 645,
     "timeWeek": 815,
-    "timeMonth": 850,
+    "timeMonth": 840,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -279,18 +281,19 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1188,
     "timeDay": 1098,
     "timeWeek": 1188,
-    "timeMonth": 1079,
+    "timeMonth": 1073,
     "timeYear": 1188,
     "dailyMinutesDown": {
+      "2024-12-23": 3,
       "2024-12-16": 5
     }
   },
@@ -299,54 +302,59 @@
     "url": "https://login.syndicat-cotesdeprovence.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.syndicat-cotesdeprovence.com.ico",
     "slug": "login-syndicat-cotesdeprovence-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1302,
     "timeDay": 991,
     "timeWeek": 1253,
-    "timeMonth": 1275,
+    "timeMonth": 1262,
     "timeYear": 1302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 2
+    }
   },
   {
     "name": "igp.vins.24eme.fr",
     "url": "https://igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/igp.vins.24eme.fr.ico",
     "slug": "igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
     "timeDay": 554,
     "timeWeek": 624,
-    "timeMonth": 671,
+    "timeMonth": 667,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 1
+    }
   },
   {
     "name": "login.igp.vins.24eme.fr",
     "url": "https://login.igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/login.igp.vins.24eme.fr.ico",
     "slug": "login-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1020,
     "timeDay": 653,
     "timeWeek": 867,
-    "timeMonth": 984,
+    "timeMonth": 972,
     "timeYear": 1020,
     "dailyMinutesDown": {
+      "2024-12-23": 1,
       "2024-12-16": 3
     }
   },
@@ -364,7 +372,7 @@
     "time": 821,
     "timeDay": 629,
     "timeWeek": 735,
-    "timeMonth": 752,
+    "timeMonth": 744,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2024-12-16": 3
@@ -384,7 +392,7 @@
     "time": 765,
     "timeDay": 599,
     "timeWeek": 686,
-    "timeMonth": 739,
+    "timeMonth": 733,
     "timeYear": 765,
     "dailyMinutesDown": {}
   },
@@ -402,7 +410,7 @@
     "time": 742,
     "timeDay": 699,
     "timeWeek": 665,
-    "timeMonth": 719,
+    "timeMonth": 707,
     "timeYear": 742,
     "dailyMinutesDown": {}
   },
@@ -420,7 +428,7 @@
     "time": 701,
     "timeDay": 704,
     "timeWeek": 689,
-    "timeMonth": 650,
+    "timeMonth": 649,
     "timeYear": 701,
     "dailyMinutesDown": {}
   },
@@ -438,7 +446,7 @@
     "time": 661,
     "timeDay": 537,
     "timeWeek": 664,
-    "timeMonth": 626,
+    "timeMonth": 616,
     "timeYear": 661,
     "dailyMinutesDown": {}
   },
@@ -456,7 +464,7 @@
     "time": 732,
     "timeDay": 617,
     "timeWeek": 670,
-    "timeMonth": 745,
+    "timeMonth": 747,
     "timeYear": 732,
     "dailyMinutesDown": {}
   },
@@ -474,7 +482,7 @@
     "time": 627,
     "timeDay": 418,
     "timeWeek": 579,
-    "timeMonth": 619,
+    "timeMonth": 614,
     "timeYear": 627,
     "dailyMinutesDown": {}
   },
@@ -492,7 +500,7 @@
     "time": 527,
     "timeDay": 589,
     "timeWeek": 551,
-    "timeMonth": 586,
+    "timeMonth": 583,
     "timeYear": 527,
     "dailyMinutesDown": {}
   },
@@ -510,7 +518,7 @@
     "time": 579,
     "timeDay": 616,
     "timeWeek": 612,
-    "timeMonth": 570,
+    "timeMonth": 566,
     "timeYear": 579,
     "dailyMinutesDown": {}
   },
@@ -528,7 +536,7 @@
     "time": 827,
     "timeDay": 655,
     "timeWeek": 836,
-    "timeMonth": 770,
+    "timeMonth": 764,
     "timeYear": 827,
     "dailyMinutesDown": {}
   },
@@ -546,7 +554,7 @@
     "time": 1087,
     "timeDay": 860,
     "timeWeek": 1066,
-    "timeMonth": 1047,
+    "timeMonth": 1040,
     "timeYear": 1087,
     "dailyMinutesDown": {}
   },
@@ -564,7 +572,7 @@
     "time": 641,
     "timeDay": 402,
     "timeWeek": 586,
-    "timeMonth": 609,
+    "timeMonth": 603,
     "timeYear": 641,
     "dailyMinutesDown": {}
   },
@@ -582,7 +590,7 @@
     "time": 608,
     "timeDay": 481,
     "timeWeek": 555,
-    "timeMonth": 563,
+    "timeMonth": 557,
     "timeYear": 608,
     "dailyMinutesDown": {}
   },
@@ -600,7 +608,7 @@
     "time": 578,
     "timeDay": 467,
     "timeWeek": 518,
-    "timeMonth": 537,
+    "timeMonth": 530,
     "timeYear": 578,
     "dailyMinutesDown": {}
   },
@@ -618,7 +626,7 @@
     "time": 576,
     "timeDay": 592,
     "timeWeek": 568,
-    "timeMonth": 542,
+    "timeMonth": 537,
     "timeYear": 576,
     "dailyMinutesDown": {}
   },
@@ -636,7 +644,7 @@
     "time": 583,
     "timeDay": 397,
     "timeWeek": 484,
-    "timeMonth": 561,
+    "timeMonth": 557,
     "timeYear": 583,
     "dailyMinutesDown": {}
   },
@@ -654,7 +662,7 @@
     "time": 545,
     "timeDay": 476,
     "timeWeek": 520,
-    "timeMonth": 518,
+    "timeMonth": 514,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -672,7 +680,7 @@
     "time": 556,
     "timeDay": 476,
     "timeWeek": 496,
-    "timeMonth": 526,
+    "timeMonth": 519,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
@@ -690,7 +698,7 @@
     "time": 565,
     "timeDay": 577,
     "timeWeek": 578,
-    "timeMonth": 541,
+    "timeMonth": 536,
     "timeYear": 565,
     "dailyMinutesDown": {}
   },
@@ -708,7 +716,7 @@
     "time": 547,
     "timeDay": 484,
     "timeWeek": 540,
-    "timeMonth": 528,
+    "timeMonth": 524,
     "timeYear": 547,
     "dailyMinutesDown": {}
   },
@@ -726,7 +734,7 @@
     "time": 544,
     "timeDay": 397,
     "timeWeek": 501,
-    "timeMonth": 519,
+    "timeMonth": 515,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -744,7 +752,7 @@
     "time": 985,
     "timeDay": 751,
     "timeWeek": 906,
-    "timeMonth": 951,
+    "timeMonth": 941,
     "timeYear": 985,
     "dailyMinutesDown": {}
   },
@@ -762,7 +770,7 @@
     "time": 1016,
     "timeDay": 841,
     "timeWeek": 1002,
-    "timeMonth": 998,
+    "timeMonth": 997,
     "timeYear": 1016,
     "dailyMinutesDown": {}
   },
@@ -780,7 +788,7 @@
     "time": 948,
     "timeDay": 1327,
     "timeWeek": 1349,
-    "timeMonth": 1007,
+    "timeMonth": 1011,
     "timeYear": 948,
     "dailyMinutesDown": {}
   },
@@ -798,7 +806,7 @@
     "time": 865,
     "timeDay": 716,
     "timeWeek": 862,
-    "timeMonth": 832,
+    "timeMonth": 826,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2024-12-04": 9
@@ -818,7 +826,7 @@
     "time": 583,
     "timeDay": 454,
     "timeWeek": 567,
-    "timeMonth": 564,
+    "timeMonth": 558,
     "timeYear": 583,
     "dailyMinutesDown": {}
   },
@@ -836,7 +844,7 @@
     "time": 785,
     "timeDay": 630,
     "timeWeek": 732,
-    "timeMonth": 760,
+    "timeMonth": 751,
     "timeYear": 785,
     "dailyMinutesDown": {}
   },
@@ -854,7 +862,7 @@
     "time": 759,
     "timeDay": 629,
     "timeWeek": 818,
-    "timeMonth": 739,
+    "timeMonth": 729,
     "timeYear": 759,
     "dailyMinutesDown": {}
   },
@@ -872,7 +880,7 @@
     "time": 722,
     "timeDay": 557,
     "timeWeek": 683,
-    "timeMonth": 707,
+    "timeMonth": 700,
     "timeYear": 722,
     "dailyMinutesDown": {}
   },
@@ -890,7 +898,7 @@
     "time": 766,
     "timeDay": 608,
     "timeWeek": 745,
-    "timeMonth": 746,
+    "timeMonth": 744,
     "timeYear": 766,
     "dailyMinutesDown": {}
   },
@@ -908,7 +916,7 @@
     "time": 877,
     "timeDay": 682,
     "timeWeek": 835,
-    "timeMonth": 851,
+    "timeMonth": 846,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2024-12-03": 3,
@@ -929,7 +937,7 @@
     "time": 1257,
     "timeDay": 1024,
     "timeWeek": 1211,
-    "timeMonth": 1222,
+    "timeMonth": 1214,
     "timeYear": 1257,
     "dailyMinutesDown": {}
   },
@@ -947,7 +955,7 @@
     "time": 138,
     "timeDay": 110,
     "timeWeek": 129,
-    "timeMonth": 133,
+    "timeMonth": 132,
     "timeYear": 138,
     "dailyMinutesDown": {}
   },
@@ -965,7 +973,7 @@
     "time": 824,
     "timeDay": 771,
     "timeWeek": 791,
-    "timeMonth": 788,
+    "timeMonth": 781,
     "timeYear": 824,
     "dailyMinutesDown": {}
   },
@@ -983,7 +991,7 @@
     "time": 876,
     "timeDay": 722,
     "timeWeek": 834,
-    "timeMonth": 844,
+    "timeMonth": 837,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -1001,7 +1009,7 @@
     "time": 713,
     "timeDay": 503,
     "timeWeek": 667,
-    "timeMonth": 686,
+    "timeMonth": 681,
     "timeYear": 713,
     "dailyMinutesDown": {}
   },
@@ -1019,7 +1027,7 @@
     "time": 728,
     "timeDay": 666,
     "timeWeek": 730,
-    "timeMonth": 691,
+    "timeMonth": 685,
     "timeYear": 728,
     "dailyMinutesDown": {}
   },
@@ -1037,7 +1045,7 @@
     "time": 281,
     "timeDay": 134,
     "timeWeek": 277,
-    "timeMonth": 278,
+    "timeMonth": 277,
     "timeYear": 281,
     "dailyMinutesDown": {}
   },
@@ -1055,7 +1063,7 @@
     "time": 717,
     "timeDay": 698,
     "timeWeek": 826,
-    "timeMonth": 715,
+    "timeMonth": 709,
     "timeYear": 717,
     "dailyMinutesDown": {}
   },
@@ -1091,7 +1099,7 @@
     "time": 557,
     "timeDay": 438,
     "timeWeek": 500,
-    "timeMonth": 507,
+    "timeMonth": 503,
     "timeYear": 557,
     "dailyMinutesDown": {}
   },
@@ -1109,7 +1117,7 @@
     "time": 989,
     "timeDay": 772,
     "timeWeek": 826,
-    "timeMonth": 930,
+    "timeMonth": 914,
     "timeYear": 989,
     "dailyMinutesDown": {}
   },
@@ -1127,7 +1135,7 @@
     "time": 1372,
     "timeDay": 1075,
     "timeWeek": 1343,
-    "timeMonth": 1273,
+    "timeMonth": 1256,
     "timeYear": 1372,
     "dailyMinutesDown": {}
   }
