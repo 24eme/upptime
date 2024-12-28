@@ -1,7 +1,7 @@
 url: https://login.aoc-centre-loire.fr/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-28T02:54:18.931Z
+status: up
+code: 200
+responseTime: 1092
+lastUpdated: 2024-12-28T02:58:27.852Z
 startTime: 2024-11-22T11:56:28.766Z
 generator: Upptime <https://github.com/upptime/upptime>
