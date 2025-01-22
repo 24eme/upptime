@@ -1,7 +1,7 @@
 url: https://med.igp.vins.24eme.fr/statuts/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-22T08:48:14.177Z
+status: up
+code: 200
+responseTime: 580
+lastUpdated: 2025-01-22T09:00:52.000Z
 startTime: 2024-11-22T08:12:06.013Z
 generator: Upptime <https://github.com/upptime/upptime>
