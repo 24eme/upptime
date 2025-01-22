@@ -1,7 +1,7 @@
 url: https://sancerre.aoc-centre-loire.fr/statuts/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-22T08:52:05.825Z
+status: up
+code: 200
+responseTime: 478
+lastUpdated: 2025-01-22T09:01:10.326Z
 startTime: 2024-11-22T08:12:13.457Z
 generator: Upptime <https://github.com/upptime/upptime>
