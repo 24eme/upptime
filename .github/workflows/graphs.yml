@@ -32,7 +32,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate graphs
-        uses: wincelau/upptime_graphs
+        uses: wincelau/upptime_graphs@1cbab53e6f7fc7758c9115778449ee9b321c8cc2
         with:
           command: "graphs"
         env:
