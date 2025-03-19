@@ -209,7 +209,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/5 * * * *"
 
 runner: self-hosted
 # Upptime also supports notifications, assigning issues, and more
