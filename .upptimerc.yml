@@ -210,6 +210,7 @@ status-website:
 
 workflowSchedule:
   uptime: "*/15 * * * *"
-  
+
+runner: "[self-hosted, linux, ARM64]"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
