@@ -566,19 +566,19 @@
     "url": "https://odg.aoc-centre-loire.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/odg.aoc-centre-loire.fr.ico",
     "slug": "odg-aoc-centre-loire-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 93,
-    "timeWeek": 244,
-    "timeMonth": 466,
-    "timeYear": 552,
+    "time": 549,
+    "timeDay": 94,
+    "timeWeek": 233,
+    "timeMonth": 456,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-03-24": 1
+      "2025-03-24": 2
     }
   },
   {
