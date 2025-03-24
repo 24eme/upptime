@@ -566,10 +566,10 @@
     "url": "https://odg.aoc-centre-loire.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/odg.aoc-centre-loire.fr.ico",
     "slug": "odg-aoc-centre-loire-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -577,7 +577,9 @@
     "timeWeek": 244,
     "timeMonth": 466,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 1
+    }
   },
   {
     "name": "sancerre.aoc-centre-loire.fr",
