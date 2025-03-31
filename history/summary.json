@@ -278,19 +278,19 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 295,
-    "timeWeek": 285,
-    "timeMonth": 883,
-    "timeYear": 1089,
+    "time": 1095,
+    "timeDay": 1252,
+    "timeWeek": 526,
+    "timeMonth": 917,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2025-03-31": 2
+      "2025-03-31": 7
     }
   },
   {
@@ -389,17 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ardeche.igp.vins.24eme.fr.ico",
     "slug": "ardeche-igp-vins-24eme-fr",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 665,
     "timeDay": 49,
     "timeWeek": 80,
     "timeMonth": 428,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 10
+    }
   },
   {
     "name": "drome.igp.vins.24eme.fr",
@@ -478,18 +480,20 @@
     "url": "https://var.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/var.igp.vins.24eme.fr.ico",
     "slug": "var-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 548,
     "timeDay": 70,
     "timeWeek": 89,
     "timeMonth": 387,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 2
+    }
   },
   {
     "name": "vaucluse.igp.vins.24eme.fr",
@@ -838,19 +842,19 @@
     "url": "https://ahrb.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/ahrb.24eme.fr.ico",
     "slug": "ahrb-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 87,
-    "timeWeek": 74,
-    "timeMonth": 459,
-    "timeYear": 684,
+    "time": 699,
+    "timeDay": 1580,
+    "timeWeek": 449,
+    "timeMonth": 530,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-03-31": 1
+      "2025-03-31": 7
     }
   },
   {
@@ -858,18 +862,20 @@
     "url": "https://aurouzetouraine.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouzetouraine.24eme.fr.ico",
     "slug": "aurouzetouraine-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 673,
     "timeDay": 53,
     "timeWeek": 75,
     "timeMonth": 482,
     "timeYear": 673,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 6
+    }
   },
   {
     "name": "www.nathanmode-crm.com",
@@ -1112,15 +1118,17 @@
     "slug": "24eme-fr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1241,
     "timeDay": 86,
     "timeWeek": 107,
     "timeMonth": 866,
     "timeYear": 1241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 5
+    }
   }
 ]
