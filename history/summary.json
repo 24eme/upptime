@@ -278,18 +278,20 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1089,
     "timeDay": 295,
     "timeWeek": 285,
     "timeMonth": 883,
     "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 2
+    }
   },
   {
     "name": "login.syndicat-cotesdeprovence.com",
@@ -836,10 +838,10 @@
     "url": "https://ahrb.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/ahrb.24eme.fr.ico",
     "slug": "ahrb-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
@@ -847,7 +849,9 @@
     "timeWeek": 74,
     "timeMonth": 459,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-31": 1
+    }
   },
   {
     "name": "aurouzetouraine.24eme.fr",
