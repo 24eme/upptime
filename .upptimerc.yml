@@ -155,7 +155,6 @@ sites:
     maxResponseTime: 15000
     assignees:
       - OliCat
-    maxResponseTime: 15000
   - name: nutri.vin
     url: https://nutri.vin/faq
     maxResponseTime: 15000
