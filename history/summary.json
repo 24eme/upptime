@@ -300,16 +300,18 @@
     "slug": "login-syndicat-cotesdeprovence-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1173,
     "timeDay": 190,
     "timeWeek": 175,
     "timeMonth": 801,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-01": 3
+    }
   },
   {
     "name": "igp.vins.24eme.fr",
@@ -1042,7 +1044,7 @@
     "url": "https://jeancloude.24eme.fr/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/jeancloude.24eme.fr.ico",
     "slug": "jeancloude-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
