@@ -155,11 +155,6 @@ sites:
     maxResponseTime: 15000
     assignees:
       - OliCat
-  - name: amvm.24eme.fr/amvm
-    url: https://amvm.24eme.fr/amvm/
-    maxResponseTime: 15000
-  - name: amvm.24eme.fr/nextcloud
-    url: https://amvm.24eme.fr/nextcloud/status.php
     maxResponseTime: 15000
   - name: nutri.vin
     url: https://nutri.vin/faq
