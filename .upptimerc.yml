@@ -193,6 +193,7 @@ status-website:
   robotsText: "User-agent: *\nDisallow: /"
   logoUrl: https://www.24eme.fr/img/24eme.svg
   name: 24ème Status
+  customHeadHtml: "<meta name=\"google-site-verification\" content=\"ctU1ii-_jqyVNR1TPUPg7WYBqMYRFMFbJDXYMqSl9v8\" />"
   introTitle: 
   introMessage: 
 
