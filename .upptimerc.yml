@@ -190,7 +190,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.24eme.fr
   # baseUrl: /upptime
-  robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: *\nDisallow: /"
   logoUrl: https://www.24eme.fr/img/24eme.svg
   name: 24ème Status
   introTitle: 
