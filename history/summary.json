@@ -908,10 +908,10 @@
     "url": "https://nutri.vin/faq",
     "icon": "https://icons.duckduckgo.com/ip3/nutri.vin.ico",
     "slug": "nutri-vin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
@@ -919,7 +919,9 @@
     "timeWeek": 84,
     "timeMonth": 486,
     "timeYear": 753,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "qr-so.fr",
@@ -962,10 +964,10 @@
     "url": "https://cniv.24eme.fr/status/",
     "icon": "https://icons.duckduckgo.com/ip3/cniv.24eme.fr.ico",
     "slug": "cniv-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
@@ -973,7 +975,9 @@
     "timeWeek": 55,
     "timeMonth": 337,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "www.opendatawine.fr",
@@ -998,10 +1002,10 @@
     "url": "https://io.24eme.fr/liberatinao/",
     "icon": "https://icons.duckduckgo.com/ip3/io.24eme.fr.ico",
     "slug": "io-24eme-fr-liberatinao",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 647,
@@ -1009,7 +1013,9 @@
     "timeWeek": 87,
     "timeMonth": 375,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "sergio.24eme.fr",
@@ -1052,10 +1058,10 @@
     "url": "https://pdf.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.24eme.fr.ico",
     "slug": "pdf-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 823,
@@ -1063,17 +1069,19 @@
     "timeWeek": 97,
     "timeMonth": 444,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   },
   {
     "name": "24eme.fr",
     "url": "https://24eme.fr",
     "icon": "https://icons.duckduckgo.com/ip3/24eme.fr.ico",
     "slug": "24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1182,
@@ -1081,6 +1089,8 @@
     "timeWeek": 116,
     "timeMonth": 648,
     "timeYear": 1182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-04": 1
+    }
   }
 ]
