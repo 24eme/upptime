@@ -890,19 +890,19 @@
     "url": "https://plateforme.plateau-urbain.com/",
     "icon": "https://icons.duckduckgo.com/ip3/plateforme.plateau-urbain.com.ico",
     "slug": "plateforme-plateau-urbain-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 127,
-    "timeWeek": 124,
-    "timeMonth": 197,
-    "timeYear": 720,
+    "time": 717,
+    "timeDay": 121,
+    "timeWeek": 123,
+    "timeMonth": 195,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2025-04-17": 1
+      "2025-04-17": 3
     }
   },
   {
