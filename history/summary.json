@@ -278,19 +278,19 @@
     "url": "https://declaration.syndicat-cotesdeprovence.com/statuts/provence.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdeprovence.com.ico",
     "slug": "declaration-syndicat-cotesdeprovence-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 185,
-    "timeWeek": 234,
-    "timeMonth": 300,
-    "timeYear": 986,
+    "time": 983,
+    "timeDay": 212,
+    "timeWeek": 238,
+    "timeMonth": 299,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 2
     }
   },
   {
