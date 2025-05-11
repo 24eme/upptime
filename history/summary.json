@@ -242,19 +242,19 @@
     "url": "https://declaration.syndicat-cotesdurhone.com/statuts/rhone.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdurhone.com.ico",
     "slug": "declaration-syndicat-cotesdurhone-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 446,
-    "timeDay": 117,
-    "timeWeek": 111,
-    "timeMonth": 123,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "72.77%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.84%",
+    "time": 445,
+    "timeDay": 164,
+    "timeWeek": 124,
+    "timeMonth": 126,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2025-05-11": 13
+      "2025-05-11": 392
     }
   },
   {
@@ -262,19 +262,19 @@
     "url": "https://login.syndicat-cotesdurhone.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.syndicat-cotesdurhone.com.ico",
     "slug": "login-syndicat-cotesdurhone-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 650,
-    "timeDay": 122,
-    "timeWeek": 95,
-    "timeMonth": 119,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "72.80%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.84%",
+    "time": 648,
+    "timeDay": 204,
+    "timeWeek": 119,
+    "timeMonth": 125,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-05-11": 13
+      "2025-05-11": 392
     }
   },
   {
