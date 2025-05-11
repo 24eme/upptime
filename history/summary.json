@@ -243,18 +243,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/declaration.syndicat-cotesdurhone.com.ico",
     "slug": "declaration-syndicat-cotesdurhone-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 446,
     "timeDay": 117,
     "timeWeek": 111,
     "timeMonth": 123,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-05-11": 1
+      "2025-05-11": 13
     }
   },
   {
@@ -263,18 +263,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.syndicat-cotesdurhone.com.ico",
     "slug": "login-syndicat-cotesdurhone-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 650,
     "timeDay": 122,
     "timeWeek": 95,
     "timeMonth": 119,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2025-05-11": 1
+      "2025-05-11": 13
     }
   },
   {
