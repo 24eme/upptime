@@ -538,19 +538,19 @@
     "url": "https://login.aoc-ventoux.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.aoc-ventoux.com.ico",
     "slug": "login-aoc-ventoux-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 72,
-    "timeWeek": 110,
-    "timeMonth": 113,
-    "timeYear": 773,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 771,
+    "timeDay": 127,
+    "timeWeek": 119,
+    "timeMonth": 115,
+    "timeYear": 771,
     "dailyMinutesDown": {
-      "2025-05-19": 3
+      "2025-05-19": 16
     }
   },
   {
@@ -774,19 +774,19 @@
     "url": "https://assvas.vins.24eme.fr/statuts/assvas.php",
     "icon": "https://icons.duckduckgo.com/ip3/assvas.vins.24eme.fr.ico",
     "slug": "assvas-vins-24eme-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 842,
-    "timeWeek": 1109,
-    "timeMonth": 1118,
-    "timeYear": 1194,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1192,
+    "timeDay": 865,
+    "timeWeek": 1082,
+    "timeMonth": 1111,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2025-05-19": 2
+      "2025-05-19": 15
     }
   },
   {
@@ -831,17 +831,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tuenet.24eme.fr.ico",
     "slug": "tuenet-24eme-fr",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 559,
     "timeDay": 101,
     "timeWeek": 81,
     "timeMonth": 90,
     "timeYear": 559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 13
+    }
   },
   {
     "name": "ahrb.24eme.fr",
@@ -1038,18 +1040,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sergio.24eme.fr.ico",
     "slug": "sergio-24eme-fr",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 173,
     "timeDay": 176,
     "timeWeek": 79,
     "timeMonth": 85,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2025-05-19": 6
+      "2025-05-19": 22
     }
   },
   {
@@ -1095,19 +1097,19 @@
     "url": "https://24eme.fr",
     "icon": "https://icons.duckduckgo.com/ip3/24eme.fr.ico",
     "slug": "24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 959,
-    "timeDay": 293,
-    "timeWeek": 155,
-    "timeMonth": 139,
-    "timeYear": 959,
+    "time": 955,
+    "timeDay": 202,
+    "timeWeek": 150,
+    "timeMonth": 138,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-05-19": 2,
+      "2025-05-19": 14,
       "2025-05-16": 15
     }
   }
