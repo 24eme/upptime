@@ -446,18 +446,20 @@
     "url": "https://loire.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/loire.igp.vins.24eme.fr.ico",
     "slug": "loire-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 73,
     "timeWeek": 65,
     "timeMonth": 74,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 3
+    }
   },
   {
     "name": "med.igp.vins.24eme.fr",
