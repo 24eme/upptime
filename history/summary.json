@@ -80,10 +80,10 @@
     "url": "https://declaration.ivbdpro.fr/statuts/ivbd.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.ivbdpro.fr.ico",
     "slug": "declaration-ivbdpro-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
@@ -91,17 +91,19 @@
     "timeWeek": 216,
     "timeMonth": 220,
     "timeYear": 863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 1
+    }
   },
   {
     "name": "login.ivbdpro.fr",
     "url": "https://login.ivbdpro.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/login.ivbdpro.fr.ico",
     "slug": "login-ivbdpro-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 832,
@@ -109,17 +111,19 @@
     "timeWeek": 185,
     "timeMonth": 186,
     "timeYear": 832,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 1
+    }
   },
   {
     "name": "declaration.ivsopro.com",
     "url": "https://declaration.ivsopro.com/statuts/ivso.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.ivsopro.com.ico",
     "slug": "declaration-ivsopro-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1059,
@@ -127,7 +131,9 @@
     "timeWeek": 235,
     "timeMonth": 227,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 1
+    }
   },
   {
     "name": "login.ivsopro.com",
@@ -527,11 +533,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/declaration.aoc-ventoux.com.ico",
     "slug": "declaration-aoc-ventoux-com",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.82%",
-    "uptimeYear": "97.63%",
+    "uptimeYear": "97.64%",
     "time": 543,
     "timeDay": 146,
     "timeWeek": 106,
@@ -1107,11 +1113,11 @@
     "url": "https://24eme.fr",
     "icon": "https://icons.duckduckgo.com/ip3/24eme.fr.ico",
     "slug": "24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 891,
     "timeDay": 122,
@@ -1119,6 +1125,7 @@
     "timeMonth": 139,
     "timeYear": 891,
     "dailyMinutesDown": {
+      "2025-06-05": 2,
       "2025-05-19": 44,
       "2025-05-16": 15
     }
