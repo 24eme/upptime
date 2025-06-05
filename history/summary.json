@@ -488,10 +488,10 @@
     "url": "https://var.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/var.igp.vins.24eme.fr.ico",
     "slug": "var-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
@@ -499,7 +499,9 @@
     "timeWeek": 92,
     "timeMonth": 76,
     "timeYear": 408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 1
+    }
   },
   {
     "name": "vaucluse.igp.vins.24eme.fr",
