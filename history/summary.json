@@ -488,11 +488,11 @@
     "url": "https://var.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/var.igp.vins.24eme.fr.ico",
     "slug": "var-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 71,
@@ -500,7 +500,7 @@
     "timeMonth": 77,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-06-05": 2
+      "2025-06-05": 3
     }
   },
   {
