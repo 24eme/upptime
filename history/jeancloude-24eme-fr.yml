@@ -1,7 +1,7 @@
 url: https://jeancloude.24eme.fr/status.php
-status: up
-code: 200
-responseTime: 49
-lastUpdated: 2025-06-26T23:01:43.612Z
+status: down
+code: 503
+responseTime: 37
+lastUpdated: 2025-06-27T12:54:18.451Z
 startTime: 2024-11-21T17:02:59.188Z
 generator: Upptime <https://github.com/upptime/upptime>
