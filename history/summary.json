@@ -1087,19 +1087,19 @@
     "url": "https://jeancloude.24eme.fr/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/jeancloude.24eme.fr.ico",
     "slug": "jeancloude-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 43,
-    "timeWeek": 75,
+    "time": 350,
+    "timeDay": 62,
+    "timeWeek": 77,
     "timeMonth": 82,
-    "timeYear": 351,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2025-06-27": 2
+      "2025-06-27": 3
     }
   },
   {
