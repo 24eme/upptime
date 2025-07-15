@@ -542,10 +542,10 @@
     "url": "https://declaration.aoc-ventoux.com/statuts/ventoux.php",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.aoc-ventoux.com.ico",
     "slug": "declaration-aoc-ventoux-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.03%",
     "time": 476,
@@ -554,7 +554,7 @@
     "timeMonth": 101,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-07-15": 12,
+      "2025-07-15": 13,
       "2025-05-24": 390,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -570,9 +570,9 @@
     "slug": "login-aoc-ventoux-com",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 629,
     "timeDay": 142,
@@ -580,7 +580,7 @@
     "timeMonth": 128,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-07-15": 23,
+      "2025-07-15": 27,
       "2025-05-19": 16
     }
   },
@@ -787,10 +787,10 @@
     "url": "https://declaration.vinsdenantes.com/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/declaration.vinsdenantes.com.ico",
     "slug": "declaration-vinsdenantes-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 763,
@@ -799,7 +799,7 @@
     "timeMonth": 512,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-07-15": 20
+      "2025-07-15": 21
     }
   },
   {
@@ -807,10 +807,10 @@
     "url": "https://assvas.vins.24eme.fr/statuts/assvas.php",
     "icon": "https://icons.duckduckgo.com/ip3/assvas.vins.24eme.fr.ico",
     "slug": "assvas-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 1194,
@@ -819,7 +819,7 @@
     "timeMonth": 1251,
     "timeYear": 1194,
     "dailyMinutesDown": {
-      "2025-07-15": 8,
+      "2025-07-15": 9,
       "2025-05-19": 46
     }
   },
