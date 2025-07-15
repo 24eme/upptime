@@ -568,11 +568,11 @@
     "url": "https://login.aoc-ventoux.com/",
     "icon": "https://icons.duckduckgo.com/ip3/login.aoc-ventoux.com.ico",
     "slug": "login-aoc-ventoux-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.23%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 624,
     "timeDay": 164,
@@ -580,7 +580,7 @@
     "timeMonth": 133,
     "timeYear": 624,
     "dailyMinutesDown": {
-      "2025-07-15": 54,
+      "2025-07-15": 55,
       "2025-05-19": 16
     }
   },
