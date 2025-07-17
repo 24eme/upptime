@@ -340,10 +340,10 @@
     "url": "https://igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/igp.vins.24eme.fr.ico",
     "slug": "igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 402,
@@ -351,17 +351,19 @@
     "timeWeek": 44,
     "timeMonth": 46,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "login.igp.vins.24eme.fr",
     "url": "https://login.igp.vins.24eme.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/login.igp.vins.24eme.fr.ico",
     "slug": "login-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
@@ -369,17 +371,19 @@
     "timeWeek": 59,
     "timeMonth": 58,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "13.igp.vins.24eme.fr",
     "url": "https://13.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/13.igp.vins.24eme.fr.ico",
     "slug": "13-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 467,
@@ -387,17 +391,19 @@
     "timeWeek": 70,
     "timeMonth": 74,
     "timeYear": 467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "arles.igp.vins.24eme.fr",
     "url": "https://arles.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/arles.igp.vins.24eme.fr.ico",
     "slug": "arles-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
@@ -405,17 +411,19 @@
     "timeWeek": 66,
     "timeMonth": 78,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "ardeche.igp.vins.24eme.fr",
     "url": "https://ardeche.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/ardeche.igp.vins.24eme.fr.ico",
     "slug": "ardeche-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
@@ -423,17 +431,19 @@
     "timeWeek": 78,
     "timeMonth": 70,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "drome.igp.vins.24eme.fr",
     "url": "https://drome.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/drome.igp.vins.24eme.fr.ico",
     "slug": "drome-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
@@ -441,17 +451,19 @@
     "timeWeek": 75,
     "timeMonth": 70,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "gascogne.igp.vins.24eme.fr",
     "url": "https://gascogne.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/gascogne.igp.vins.24eme.fr.ico",
     "slug": "gascogne-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
@@ -459,17 +471,19 @@
     "timeWeek": 78,
     "timeMonth": 67,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "loire.igp.vins.24eme.fr",
     "url": "https://loire.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/loire.igp.vins.24eme.fr.ico",
     "slug": "loire-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 400,
@@ -478,6 +492,7 @@
     "timeMonth": 69,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2025-07-17": 1,
       "2025-05-19": 10
     }
   },
@@ -486,10 +501,10 @@
     "url": "https://med.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/med.igp.vins.24eme.fr.ico",
     "slug": "med-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 369,
@@ -497,17 +512,19 @@
     "timeWeek": 71,
     "timeMonth": 73,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "var.igp.vins.24eme.fr",
     "url": "https://var.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/var.igp.vins.24eme.fr.ico",
     "slug": "var-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
@@ -516,6 +533,7 @@
     "timeMonth": 72,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2025-07-17": 1,
       "2025-06-05": 4
     }
   },
@@ -524,10 +542,10 @@
     "url": "https://vaucluse.igp.vins.24eme.fr/statuts/",
     "icon": "https://icons.duckduckgo.com/ip3/vaucluse.igp.vins.24eme.fr.ico",
     "slug": "vaucluse-igp-vins-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
@@ -535,7 +553,9 @@
     "timeWeek": 72,
     "timeMonth": 73,
     "timeYear": 327,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-17": 1
+    }
   },
   {
     "name": "declaration.aoc-ventoux.com",
