@@ -866,10 +866,10 @@
     "url": "https://aurouze.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouze.24eme.fr.ico",
     "slug": "aurouze-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 333,
@@ -878,7 +878,7 @@
     "timeMonth": 81,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-08-04": 4,
+      "2025-08-04": 7,
       "2025-07-29": 3
     }
   },
@@ -887,10 +887,10 @@
     "url": "https://tuenet.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/tuenet.24eme.fr.ico",
     "slug": "tuenet-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 429,
@@ -899,7 +899,7 @@
     "timeMonth": 87,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-08-04": 4
+      "2025-08-04": 6
     }
   },
   {
@@ -927,10 +927,10 @@
     "url": "https://aurouzetouraine.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouzetouraine.24eme.fr.ico",
     "slug": "aurouzetouraine-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 402,
@@ -939,7 +939,7 @@
     "timeMonth": 87,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-08-04": 3
+      "2025-08-04": 5
     }
   },
   {
