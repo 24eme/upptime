@@ -866,19 +866,19 @@
     "url": "https://aurouze.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouze.24eme.fr.ico",
     "slug": "aurouze-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 333,
+    "time": 332,
     "timeDay": 87,
     "timeWeek": 83,
     "timeMonth": 81,
-    "timeYear": 333,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-08-04": 7,
+      "2025-08-04": 8,
       "2025-07-29": 3
     }
   },
@@ -887,19 +887,19 @@
     "url": "https://tuenet.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/tuenet.24eme.fr.ico",
     "slug": "tuenet-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 90,
-    "timeWeek": 96,
+    "time": 428,
+    "timeDay": 95,
+    "timeWeek": 97,
     "timeMonth": 87,
-    "timeYear": 429,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2025-08-04": 6
+      "2025-08-04": 8
     }
   },
   {
@@ -927,19 +927,19 @@
     "url": "https://aurouzetouraine.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouzetouraine.24eme.fr.ico",
     "slug": "aurouzetouraine-24eme-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 109,
-    "timeWeek": 92,
+    "time": 401,
+    "timeDay": 102,
+    "timeWeek": 91,
     "timeMonth": 87,
-    "timeYear": 402,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-08-04": 5
+      "2025-08-04": 6
     }
   },
   {
