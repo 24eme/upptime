@@ -866,10 +866,10 @@
     "url": "https://aurouze.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouze.24eme.fr.ico",
     "slug": "aurouze-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 334,
@@ -878,6 +878,7 @@
     "timeMonth": 81,
     "timeYear": 334,
     "dailyMinutesDown": {
+      "2025-08-04": 3,
       "2025-07-29": 3
     }
   },
@@ -886,28 +887,30 @@
     "url": "https://tuenet.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/tuenet.24eme.fr.ico",
     "slug": "tuenet-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 431,
     "timeDay": 93,
     "timeWeek": 97,
     "timeMonth": 87,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-04": 3
+    }
   },
   {
     "name": "ahrb.24eme.fr",
     "url": "https://ahrb.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/ahrb.24eme.fr.ico",
     "slug": "ahrb-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
@@ -915,17 +918,19 @@
     "timeWeek": 97,
     "timeMonth": 86,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-04": 2
+    }
   },
   {
     "name": "aurouzetouraine.24eme.fr",
     "url": "https://aurouzetouraine.24eme.fr/configuration/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/aurouzetouraine.24eme.fr.ico",
     "slug": "aurouzetouraine-24eme-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
@@ -933,7 +938,9 @@
     "timeWeek": 88,
     "timeMonth": 86,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-04": 2
+    }
   },
   {
     "name": "www.nathanmode-crm.com",
