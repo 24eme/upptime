@@ -848,19 +848,19 @@
     "url": "https://juricaf.org/",
     "icon": "https://icons.duckduckgo.com/ip3/juricaf.org.ico",
     "slug": "juricaf-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 43,
-    "timeWeek": 45,
+    "time": 434,
+    "timeDay": 49,
+    "timeWeek": 46,
     "timeMonth": 59,
-    "timeYear": 435,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-08-25": 2
+      "2025-08-25": 6
     }
   },
   {
