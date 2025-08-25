@@ -563,11 +563,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/declaration.aoc-ventoux.com.ico",
     "slug": "declaration-aoc-ventoux-com",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
+    "uptimeYear": "98.32%",
     "time": 426,
     "timeDay": 141,
     "timeWeek": 114,
@@ -848,10 +848,10 @@
     "url": "https://juricaf.org/",
     "icon": "https://icons.duckduckgo.com/ip3/juricaf.org.ico",
     "slug": "juricaf-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 435,
@@ -859,7 +859,9 @@
     "timeWeek": 45,
     "timeMonth": 59,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 2
+    }
   },
   {
     "name": "aurouze.24eme.fr",
