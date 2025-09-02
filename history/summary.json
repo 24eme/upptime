@@ -950,19 +950,19 @@
     "url": "https://www.nathanmode-crm.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/www.nathanmode-crm.com.ico",
     "slug": "www-nathanmode-crm-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 385,
-    "timeDay": 125,
-    "timeWeek": 80,
+    "time": 384,
+    "timeDay": 95,
+    "timeWeek": 79,
     "timeMonth": 73,
-    "timeYear": 385,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-09-02": 2
+      "2025-09-02": 9
     }
   },
   {
@@ -1194,19 +1194,19 @@
     "url": "https://www.association-mindfulness.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.association-mindfulness.org.ico",
     "slug": "www-association-mindfulness-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 255,
-    "timeWeek": 147,
+    "timeDay": 185,
+    "timeWeek": 143,
     "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-09-02": 2
+      "2025-09-02": 9
     }
   }
 ]
