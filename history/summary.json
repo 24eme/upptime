@@ -950,10 +950,10 @@
     "url": "https://www.nathanmode-crm.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/www.nathanmode-crm.com.ico",
     "slug": "www-nathanmode-crm-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
@@ -961,7 +961,9 @@
     "timeWeek": 80,
     "timeMonth": 73,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   },
   {
     "name": "plateforme.plateau-urbain.com",
@@ -1192,17 +1194,19 @@
     "url": "https://www.association-mindfulness.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.association-mindfulness.org.ico",
     "slug": "www-association-mindfulness-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 255,
     "timeWeek": 147,
     "timeMonth": 116,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-02": 2
+    }
   }
 ]
