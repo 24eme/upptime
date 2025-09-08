@@ -1200,18 +1200,19 @@
     "url": "https://www.association-mindfulness.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.association-mindfulness.org.ico",
     "slug": "www-association-mindfulness-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 82,
-    "timeWeek": 120,
-    "timeMonth": 116,
+    "timeDay": 72,
+    "timeWeek": 113,
+    "timeMonth": 114,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2025-09-08": 2,
       "2025-09-02": 9
     }
   }
