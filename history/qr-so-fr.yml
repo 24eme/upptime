@@ -1,7 +1,7 @@
 url: https://qr-so.fr/faq
-status: up
-code: 200
-responseTime: 1637
-lastUpdated: 2025-09-30T08:15:47.767Z
+status: degraded
+code: 503
+responseTime: 21258
+lastUpdated: 2025-09-30T08:30:58.293Z
 startTime: 2024-11-22T11:43:14.501Z
 generator: Upptime <https://github.com/upptime/upptime>
