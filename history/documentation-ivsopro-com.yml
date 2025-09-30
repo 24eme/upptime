@@ -1,7 +1,7 @@
 url: https://documentation.ivsopro.com/status.php
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-30T08:30:10.165Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2025-09-30T08:39:15.431Z
 startTime: 2024-11-22T11:42:28.949Z
 generator: Upptime <https://github.com/upptime/upptime>
