@@ -146,8 +146,11 @@ sites:
   - name: aurouzetouraine.24eme.fr
     url: https://aurouzetouraine.24eme.fr/configuration/public/status
     maxResponseTime: 7500
-  - name: www.nathanmode-crm.com
-    url: https://www.nathanmode-crm.com/status
+  - name: crm.lamanufactureagency.com
+    url: https://crm.lamanufactureagency.com/status
+    maxResponseTime: 7500
+  - name: crm.linupparis.com
+    url: https://crm.linupparis.com/status
     maxResponseTime: 7500
   - name: plateforme.plateau-urbain.com
     url: https://plateforme.plateau-urbain.com/
